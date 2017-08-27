@@ -1,10 +1,7 @@
-﻿using DAL;
-using Helpers;
+﻿using ShareProject.DAL;
 using System;
 using System.Collections;
-using System.Collections.Generic;
 using System.Data;
-using System.Text;
 using System.Threading;
 
 namespace BLL

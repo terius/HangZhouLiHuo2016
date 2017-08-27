@@ -43,11 +43,11 @@
     <Compile Include="V1BLL.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DAL\DAL.csproj">
+    <ProjectReference Include="..\..\..\ShareProject\ShareProject.DAL\ShareProject.DAL.csproj">
       <Project>{8e148184-fbc1-4fef-ae06-be579951a560}</Project>
       <Name>DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Helper\Helpers.csproj">
+    <ProjectReference Include="..\..\..\ShareProject\ShareProject.Helper\ShareProject.Helpers.csproj">
       <Project>{4fe32fb4-3630-4c06-ad27-60687b29ba11}</Project>
       <Name>Helpers</Name>
     </ProjectReference>
